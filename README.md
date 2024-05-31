@@ -38,3 +38,8 @@ Esta historia de valentía y conexión con la naturaleza se convierte en una sag
 
 
 # Modificaciones Entrega 2
+
+- Creacion e implementacion de parte grafica: Fondos y Títulos - Jhohan Nicolas Sedano
+- Implementacion de botones y programacion de la navegacion - Jhohan Nicolas Sedano
+- Actualizacion del diagrama de clases - Jhohan Nicolas Sedano
+- Actualizacion del README: Jhohan Nicolas Sedano
