@@ -43,3 +43,23 @@ Esta historia de valentía y conexión con la naturaleza se convierte en una sag
 - Implementacion de botones y programacion de la navegacion - Jhohan Nicolas Sedano
 - Actualizacion del diagrama de clases - Jhohan Nicolas Sedano
 - Actualizacion del README: Jhohan Nicolas Sedano
+
+# Modificaciones Entrega 3
+- Creacion de los 3 mapas: Jhohan Nicolas Sedano Correa
+- Organizacion de oleadas y rutas: Jhohan Nicolas Sedano Correa
+- Creación de diseños de Enemigos: Jhohan Nicolas Sedano Correa
+- Actualizacion del diagrama de clases: Jhohan Nicolas Sedano Correa
+
+## Cambios de la entrega 3
+ - Solucion a carga infinta al perder el nivel al corregir el script
+ - Solucion al problema para visualizar los fondos de los niveles
+ 
+ 
+# Modificaciones Entrega 4
+- Creación y diseño de Script de Cambio de Nivel: Jhohan Nicolas Sedano Correa
+- Organizacion de ubicacion por defectos de Torres: Jhohan Nicolas Sedano Correa
+- Finalizacion de el diagrama de clases: Jhohan Nicolas Sedano Correa
+- Modificacion al README: Jhohan Nicolas Sedano Correa 
+- Aportacion en el repositorio: Jhohan Nicolas Sedano Correa
+- Actualización escena créditos e instrucciones: Jhohan Nicolas Sedano Correa 
+- Actualización de la navegación entre los niveles: Jhohan Nicolas Sedano Correa
